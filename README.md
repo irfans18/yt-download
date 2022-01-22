@@ -22,3 +22,13 @@ highest progressive quality, you can use the following command:
 ```bash
 qwe 'https://youtube.com/watch?v=2lAe1cqCOXo'
 ```
+or
+
+```bash
+qwe 2lAe1cqCOXo
+```
+
+the same thing goes to see info only without download
+```bash
+qw 2lAe1cqCOXo
+```
