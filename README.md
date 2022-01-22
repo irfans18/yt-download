@@ -13,8 +13,8 @@
  
  create alias on mac / linux
  ```bash
- alias qw="path_to_python_bin/python3 see.py"
- alias qwe="path_to_python_bin/python3 download.py"
+ alias qw='path_to_python_bin/python3 see.py'
+ alias qwe='path_to_python_bin/python3 download.py'
  ```
 
 Using the CLI is extremely straightforward as well. To download a video at the
